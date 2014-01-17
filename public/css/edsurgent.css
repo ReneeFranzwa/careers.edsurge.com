@@ -1,0 +1,31 @@
+.bolt-logo {
+  width: 1.2rem;
+  height: 1.2rem;
+  display: inline;
+  margin: 0;
+  vertical-align: middle;
+}
+
+
+.masthead {
+  margin-bottom: 0rem;
+}
+
+.bolt-label {
+  display: none;
+}
+
+.masthead-right {
+  float: right;
+}
+
+@media (min-width: 30rem) {
+  .bolt-label {
+    display: inline;
+  }
+}
+
+.team-photo {
+  border-radius: 0;
+  width: 100%;
+}

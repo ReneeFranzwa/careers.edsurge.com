@@ -8,19 +8,27 @@
     <div class="container content">
       <div class="masthead">
         <h3 class="masthead-title">
+          <a href="https://www.edsurge.com" target="_blank" class="masthead-right">
+            <img src="/public/images/bolt.png" alt="EdSurge" class="bolt-logo" />
+            <small class="bolt-label">Go to edsurge.com</small>
+          </a>
           <a href="/" title="Home">{{ site.title }}</a>
-          <small>{{ site.tagline }}</small>
         </h3>
       </div>
+    </div>
 
+    <img src="/public/images/edsurge-team.jpg" alt="EdSurge Team" class="team-photo">
+    <div class="container content">
       {{ content }}
 
       <div class="footer">
         <p>
-          &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+          &copy; EdSurge, Inc. {{ site.time | date: '%Y' }}. All rights reserved.
         </p>
       </div>
     </div>
+
+    {% include scripts.html %}
 
   </body>
 </html>
