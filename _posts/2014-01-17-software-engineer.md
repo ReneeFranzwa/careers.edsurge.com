@@ -21,7 +21,7 @@ please read on.
 
 Particularly in edtech, a great source of information turns out to be quite valuable (and therefore, monetizable). Why so? Well, Paul Graham [said](http://paulgraham.com/startupideas.html): "[best startup ideas] are something the founders themselves want." And from 37signals' book [Rework](http://www.amazon.com/ReWork-Change-Way-Work-Forever-ebook/dp/B002MUAJ2A): "The easiest, most straightforward way to create a great product or service is to make something *you* want to use."
 
-However, in edtech, this is usually doesn't happen. People who use software in schools are very different from the ones who build software. Each educator needs *information* to understand which software will be most effective for his/her situations, and each entrepreneur/developer/investor needs *information* to understand customers behind the classroom wall.
+However, in edtech, this usually doesn't happen. People who use software in schools are very different from the ones who build software. Each educator needs *information* to understand which software will be most effective for his/her situations, and each entrepreneur/developer/investor needs *information* to understand customers behind the classroom wall.
 
 This is where EdSurge comes in. We help bridge the information gap among key players of edtech, so that each player can make smart decisions. Currently, in addition to our [main news product](https://www.edsurge.com/), we built a [database](https://www.edsurge.com/products/) of ~800 edtech products (written in AngularJS). Our goal in 2014 is to polish our database product and allow educators to participate on our site ([example](https://www.edsurge.com/p/classdojo/reviews)).
 
