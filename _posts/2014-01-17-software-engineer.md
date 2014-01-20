@@ -76,7 +76,7 @@ Salary/equity is negotiable. We provide health, dental, and vision insurance pla
 
 Email me a cover letter and relevant links (GitHub profile/projects). If you're thinking: "Huh? Cover letter?"--please read DHH's post ["Forget the resume, kill on the cover letter"](http://37signals.com/svn/posts/1748-forget-the-resume-kill-on-the-cover-letter).
 
-The cover letter *does not* need to be long. Be concise. If you'd like, send us a list of *10~20 max-140-character paragraphs* (equilvalent to 10~20 Tweets) that best describes your interest.
+The cover letter *does not* need to be long. Be concise. If you'd like, send us a list of *10~20 short paragraphs, each of which has <= 140 characters* (equilvalent to 10~20 Tweets), that best describes your interest.
 
 <a href="mailto:shu@edsurge.com" class="button button-rounded button-primary button-large">Email shu@edsurge.com</a>
 
