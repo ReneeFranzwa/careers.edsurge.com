@@ -15,6 +15,8 @@ If you...
 
 please read on.
 
+<!--break-->
+
 ## What We Do at EdSurge
 
 [EdSurge](https://www.edsurge.com/) is on its way to becoming the best source of information in edtech. We have [a team of 14 people](https://www.edsurge.com/about), and more than half of us are journalists and education specialists. Every day we report, curate and analyze the products, companies and organizations building edtech.
