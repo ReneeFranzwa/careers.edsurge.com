@@ -100,7 +100,7 @@ Enough talk. My email is shu@edsurge.com. Would love to hear from you.
 
 If you have any questions, email me or message me on [Twitter](https://twitter.com/chibicode). You can follow me too--I tweet about code a few times a day.
 
-Just a little bit about my background: I graduated from Carnegie Mellon with a B.S. in Computer Science (2009) and Masters in Human-Computer Interaction (2010). Before EdSurge, I've worked at Palantir as a software engineer and Quora as a product designer. My [LinkedIn profile](http://www.linkedin.com/in/chibicode) is here and [my GitHub profile](https://github.com/chibicode) is here.
+Just a little bit about my background: I graduated from Carnegie Mellon with a B.S. in Computer Science (2009) and Masters in Human-Computer Interaction (2010). Before EdSurge, I've worked at Palantir as a software engineer and Quora as a product designer. [My LinkedIn profile](http://www.linkedin.com/in/chibicode) is here and [my GitHub profile](https://github.com/chibicode) is here.
 
 If you want to learn more about me, read my [blog post](https://medium.com/what-i-learned-building/fe6a2067d770), which somehow became the top 50 most read post on Medium in August 2013.
 
