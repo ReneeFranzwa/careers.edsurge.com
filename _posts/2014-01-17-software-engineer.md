@@ -76,6 +76,10 @@ Salary/equity is negotiable. We provide health, dental, and vision insurance pla
 
 Email me a cover letter and relevant links (GitHub profile/projects). If you're thinking: "Huh? Cover letter?"--please read DHH's post ["Forget the resume, kill on the cover letter"](http://37signals.com/svn/posts/1748-forget-the-resume-kill-on-the-cover-letter).
 
+The cover letter *does not* need to be long. Be concise. If you'd like, send us a list of *10~20 max-140-character paragraphs* (equilvalent to 10~20 Tweets) that best describes your interest.
+
+<a href="mailto:shu@edsurge.com" class="button button-rounded button-primary button-large">Email shu@edsurge.com</a>
+
 #### Interview Process
 
 After reviewing your cover letter, I'll be your first (phone) interviewer. I won't give you any live-coding interviews because they don't work. [As to why, please read this article](http://css-tricks.com/interviewing-front-end-engineer-san-francisco/). On my interview, I like to ask what you're *geniunely* passionate about in your professional life, so I can determine if EdSurge can help you get to where you want to be. I also like to ask how you stay current.
