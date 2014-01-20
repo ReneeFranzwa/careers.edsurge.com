@@ -15,7 +15,7 @@ If you...
 
 please read on.
 
-### What We Do at EdSurge
+## What We Do at EdSurge
 
 [EdSurge](https://www.edsurge.com/) is on its way to becoming the best source of information in edtech. We have [a team of 14 people](https://www.edsurge.com/about), and more than half of us are journalists and education specialists. Every day we report, curate and analyze the products, companies and organizations building edtech.
 
@@ -23,7 +23,9 @@ Particularly in edtech, a great source of information turns out to be quite valu
 
 However, in edtech, this usually doesn't happen. People who use software in schools are very different from the ones who build software. Each educator needs *information* to understand which software will be most effective for his/her situations, and each entrepreneur/developer/investor needs *information* to understand customers behind the classroom wall.
 
-This is where EdSurge comes in. We help bridge the information gap among key players of edtech, so that each player can make smart decisions. Currently, in addition to our [main news product](https://www.edsurge.com/), we built a [database](https://www.edsurge.com/products/) of ~800 edtech products (written in AngularJS). Our goal in 2014 is to polish our database product and allow educators to participate on our site ([example](https://www.edsurge.com/p/classdojo/reviews)).
+Also, the effectiveness of each software varies significantly in edtech depending on who uses it. Consider an app that teaches Algebra. It can work well for most schools, but it might not work in an urban school where most students are taking Algebra for the 3rd time. It can work well when teachers give feedback to each student every 10 minutes, but it might not work well for 100% self-paced environments. As a result, purchasing decisions for edtech products can be tough to make--you need some sort of a *recommendation system*.
+
+This is where EdSurge comes in. We help bridge the information gap among key players of edtech, so that each player can make smart decisions. Currently, in addition to our [main news product](https://www.edsurge.com/), we built a [database](https://www.edsurge.com/products/) of ~800 edtech products (written in AngularJS). Our goal in 2014 is to polish our database product and allow educators to participate on our site ([example](https://www.edsurge.com/p/classdojo/reviews)), which can serve as a basis to building a recommendation system of edtech software.
 
 We believe that the key to achieving our goal is to invest in and give back to the edtech community. So EdSurge regularly holds events for educators and entrepreneurs--last year we held our biggest one at Computer History Museum in Moutain View, CA, where 600 educators and 30 companies attended ([photos](https://www.edsurge.com/guide/edsurge-tech-for-schools-summits)).
 
@@ -33,7 +35,7 @@ Our CEO Betsy Corcoran, an ex-Executive Editor at Forbes and award-winning write
 
 <br>You can also watch the video of the full EdSurge staff [here](http://www.youtube.com/watch?v=-Pj_TQxDT3w).
 
-### Enginering at EdSurge
+## Enginering at EdSurge
 
 In terms of hiring engineers, we have only two requirements: we're looking for an engineer such that, by having him/her in the team,
 
@@ -60,7 +62,7 @@ We wouldn't be at where we are now without the power of open source, and our goa
 
 We're probably the best company to join for engineers who want to learn about edtech. That's why I joined too. You'll get to learn from edtech experts in our team and attend edtech conferences (and get a lot of attention from educators; they'd be like, "omg you work at EdSurge!").
 
-### Working at EdSurge
+## Working at EdSurge
 
 Our office is at 1801 Murchison Drive, Burlingame, CA ([Google Maps](https://maps.google.com/maps?t=m&q=1801+Murchison+Drive%2C+Burlingame%2C+CA)). It's ~12 min walk from Millbrae Caltrain/BART station and equidistant from highway 101 and 280. Some commute from Berkeley/Oakland, some commute from Mission/Castro, and some commute from Redwood City/Menlo Park.
 
@@ -70,11 +72,21 @@ Parking is abundant, and since we're so close to SFO, many of us park our car at
 
 Salary/equity is negotiable. We provide health, dental, and vision insurance plans.
 
-### Apply
+## Apply
 
-Email me a cover letter and relevant links (GitHub profile/projects). If you're thinking: "huh? cover letter?"--please read DHH's post ["Forget the resume, kill on the cover letter"](http://37signals.com/svn/posts/1748-forget-the-resume-kill-on-the-cover-letter).
+Email me a cover letter and relevant links (GitHub profile/projects). If you're thinking: "Huh? Cover letter?"--please read DHH's post ["Forget the resume, kill on the cover letter"](http://37signals.com/svn/posts/1748-forget-the-resume-kill-on-the-cover-letter).
+
+#### Interview Process
+
+After reviewing your cover letter, I'll be your first (phone) interviewer. I won't give you any live-coding interviews because they don't work. [As to why, please read this article](http://css-tricks.com/interviewing-front-end-engineer-san-francisco/). On my interview, I like to ask what you're *geniunely* passionate about in your professional life, so I can determine if EdSurge can help you get to where you want to be. I also like to ask how you stay current. I'm curious because I often struggle to keep up with current technologies and trends.
+
+If things go well, I'd like you to interview with our management team ([Betsy Corcoran, Nick Punt, Agustin Vilaseca, and Tyler McNally](https://www.edsurge.com/about)). If this goes well, then you'll be in our "trial period."
+
+#### Trial Period: We Will Give You a Contract Work
 
 We also believe in [hiring by auditions](http://blogs.hbr.org/2014/01/hire-by-auditions-not-resumes/) and [hiring for culture](http://joel.is/post/61468652377/what-no-one-talks-about-when-building-a-team-letting). That means we won't do coding interviews, but instead we'd like to give you a short, well-paid contract project before bringing you on for full time. That's how I was hired too. It was great because during my contract period, both EdSurge and I learned that we're good fit for each other.
+
+You can do this "trial" work at night over the weekend, so you don't have to leave your current job in the meantime. We'll give you a real work, which will likely involve building internal tools. The trial period will last for two to four weeks, but we're flexible about the details. My trial project was building the ["Events" feature](https://www.edsurge.com/e) on EdSurge, from backend to frontend.
 
 Enough talk. My email is shu@edsurge.com. Would love to hear from you.
 
