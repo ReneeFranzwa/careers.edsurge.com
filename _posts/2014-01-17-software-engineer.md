@@ -23,7 +23,7 @@ Particularly in edtech, a great source of information turns out to be quite valu
 
 However, in edtech, this usually doesn't happen. People who use software in schools are very different from the ones who build software. Each educator needs *information* to understand which software will be most effective for his/her situations, and each entrepreneur/developer/investor needs *information* to understand customers behind the classroom wall.
 
-Also, the effectiveness of each software varies significantly in edtech depending on who uses it. Consider an app that teaches Algebra. It can work well for most schools, but it might not work in an urban school where most students are taking Algebra for the 3rd time. It can work well when teachers give feedback to each student every 10 minutes, but it might not work well for 100% self-paced environments. As a result, purchasing decisions for edtech products can be tough to make--you need some sort of a *recommendation system*.
+Also in edtech, the effectiveness of each software varies significantly based on users. Consider an app that teaches Algebra. It can work well for most schools, but it might not work in an urban school where most students are taking Algebra for the 3rd time. It might work well when teachers give feedback to each student every 10 minutes, but it might not work well in an 100% self-paced environment. As a result, purchasing decisions for edtech products can be tough to make--educators need some sort of a *recommendation system*, based on their teaching environments.
 
 This is where EdSurge comes in. We help bridge the information gap among key players of edtech, so that each player can make smart decisions. Currently, in addition to our [main news product](https://www.edsurge.com/), we built a [database](https://www.edsurge.com/products/) of ~800 edtech products (written in AngularJS). Our goal in 2014 is to polish our database product and allow educators to participate on our site ([example](https://www.edsurge.com/p/classdojo/reviews)), which can serve as a basis to building a recommendation system of edtech software.
 
@@ -78,21 +78,27 @@ Email me a cover letter and relevant links (GitHub profile/projects). If you're 
 
 #### Interview Process
 
-After reviewing your cover letter, I'll be your first (phone) interviewer. I won't give you any live-coding interviews because they don't work. [As to why, please read this article](http://css-tricks.com/interviewing-front-end-engineer-san-francisco/). On my interview, I like to ask what you're *geniunely* passionate about in your professional life, so I can determine if EdSurge can help you get to where you want to be. I also like to ask how you stay current. I'm curious because I often struggle to keep up with current technologies and trends.
+After reviewing your cover letter, I'll be your first (phone) interviewer. I won't give you any live-coding interviews because they don't work. [As to why, please read this article](http://css-tricks.com/interviewing-front-end-engineer-san-francisco/). On my interview, I like to ask what you're *geniunely* passionate about in your professional life, so I can determine if EdSurge can help you get to where you want to be. I also like to ask how you stay current.
 
-If things go well, I'd like you to interview with our management team ([Betsy Corcoran, Nick Punt, Agustin Vilaseca, and Tyler McNally](https://www.edsurge.com/about)). If this goes well, then you'll be in our "trial period."
+If things go well, I'd like you to interview with our management team ([Betsy Corcoran, Nick Punt, Agustin Vilaseca, and Tyler McNally](https://www.edsurge.com/about)). If this goes well, then you'll be enrolled in our "trial period."
 
-#### Trial Period: We Will Give You a Contract Work
+#### Trial Period: We Will Give You a Paid Contract Work
 
 We also believe in [hiring by auditions](http://blogs.hbr.org/2014/01/hire-by-auditions-not-resumes/) and [hiring for culture](http://joel.is/post/61468652377/what-no-one-talks-about-when-building-a-team-letting). That means we won't do coding interviews, but instead we'd like to give you a short, well-paid contract project before bringing you on for full time. That's how I was hired too. It was great because during my contract period, both EdSurge and I learned that we're good fit for each other.
 
-You can do this "trial" work at night over the weekend, so you don't have to leave your current job in the meantime. We'll give you a real work, which will likely involve building internal tools. The trial period will last for two to four weeks, but we're flexible about the details. My trial project was building the ["Events" feature](https://www.edsurge.com/e) on EdSurge, from backend to frontend.
+You can do this "trial" work at night or over a weekend, so you don't have to leave your current job in the meantime. We'll give you a real work, which will likely involve building internal tools for us. The trial period should last for two to four weeks, but we're flexible about the details. FYI: my trial project was building the ["Events" feature](https://www.edsurge.com/e) on EdSurge, from backend to frontend.
 
 Enough talk. My email is shu@edsurge.com. Would love to hear from you.
 
 <a href="mailto:shu@edsurge.com" class="button button-rounded button-primary button-large">Email shu@edsurge.com</a>
 
-P.S. If you have any questions, email me or message me on [Twitter](https://twitter.com/chibicode). You can follow me too--I tweet about code a few times a day. If you want to learn more about me, read my [blog post](https://medium.com/what-i-learned-building/fe6a2067d770), which somehow became the top 50 most read post on Medium in August 2013.
+## PS: About Me
+
+If you have any questions, email me or message me on [Twitter](https://twitter.com/chibicode). You can follow me too--I tweet about code a few times a day.
+
+Just a little bit about my background: I graduated from Carnegie Mellon with a B.S. in Computer Science (2009) and Masters in Human-Computer Interaction (2010). Before EdSurge, I've worked at Palantir as a software engineer and Quora as a product designer. My [LinkedIn profile](http://www.linkedin.com/in/chibicode) is here and [my GitHub profile](https://github.com/chibicode) is here.
+
+If you want to learn more about me, read my [blog post](https://medium.com/what-i-learned-building/fe6a2067d770), which somehow became the top 50 most read post on Medium in August 2013.
 
 Sincerely,<br>
 Shu Uesugi
