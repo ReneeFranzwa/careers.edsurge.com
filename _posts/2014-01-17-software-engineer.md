@@ -96,11 +96,11 @@ After reviewing your cover letter, I'll be your first (phone) interviewer. I won
 
 If things go well, I'd like you to interview with our management team ([Betsy Corcoran, Nick Punt, Agustin Vilaseca, and Tyler McNally](https://www.edsurge.com/about)). If this goes well, then you'll be enrolled in our "trial period."
 
-#### Trial Period: We Will Give You a Paid Contract Work
+#### Trial Period: We Will Give You Paid Contract Work
 
 We also believe in [hiring by auditions](http://blogs.hbr.org/2014/01/hire-by-auditions-not-resumes/) and [hiring for culture](http://joel.is/post/61468652377/what-no-one-talks-about-when-building-a-team-letting). That means we won't do coding interviews, but instead we'd like to give you a short, well-paid contract project before bringing you on for full time. That's how I was hired too. It was great because during my contract period, both EdSurge and I learned that we're good fit for each other.
 
-You can do this "trial" work at night or over a weekend, so you don't have to leave your current job in the meantime. We'll give you a real work, which will likely involve building internal tools for us. The trial period should last for two to four weeks, but we're flexible about the details. FYI: my trial project was building the ["Events" feature](https://www.edsurge.com/e) on EdSurge, from backend to frontend.
+You can do this "trial" work at night or over a weekend, so you don't have to leave your current job in the meantime. We'll give you a real task, which will likely involve building internal tools for us. The trial period should last for two to four weeks, but we're flexible about the details. FYI: my trial project was building the ["Events" feature](https://www.edsurge.com/e) on EdSurge, from backend to frontend.
 
 Enough talk. My email is **shu@edsurge.com**. Would love to hear from you.
 
