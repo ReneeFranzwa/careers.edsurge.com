@@ -39,7 +39,7 @@ Our CEO Betsy Corcoran, an ex-Executive Editor at Forbes and award-winning write
 
 [We raised $400K during the summer of 2012](http://techcrunch.com/2012/08/29/edsurge-funding/) from "friends," including NewSchools Venture Fund, the Washington Post and a collection of angels.
 
-We're on track to close Series A financing in  the first quarter of 2014. The funds will provide a firm foundation to scale up our products over the next two years. Stay tuned for a formal announcement! 
+We're on track to close Series A financing in  the first quarter of 2014. The funds will provide a firm foundation to scale up our products over the next two years. Stay tuned for a formal announcement!
 
 ## Enginering at EdSurge
 
@@ -110,8 +110,7 @@ Just a little bit about my background: I graduated from Carnegie Mellon with a B
 
 If you want to learn more about me, read my [blog post](https://medium.com/what-i-learned-building/fe6a2067d770), which somehow became the top 50 most read post on Medium in August 2013.
 
-Sincerely,<br>
-Shu Uesugi
+Shu Uesugi, Engineer & Designer
 
 <img src="/public/images/shu.jpg" class="author" alt="Shu Uesugi">
 

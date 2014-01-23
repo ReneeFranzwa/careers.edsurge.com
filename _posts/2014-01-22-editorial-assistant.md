@@ -20,3 +20,7 @@ Experience with Photoshop/Illustrator and basic HTML/CSS is a must. Experience w
 This will be a part-time position for now. If you're interested, please send a resume, cover letter and a link to an online portfolio to: **tony@edsurge.com**.
 
 <a href="mailto:tony@edsurge.com" class="button button-rounded button-primary button-large">Email tony@edsurge.com</a>
+
+Tony Wan, Managing Editor
+
+<img src="/public/images/tony.jpg" class="author" alt="Tony Wan">
