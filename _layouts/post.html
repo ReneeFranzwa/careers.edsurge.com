@@ -5,5 +5,19 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">Position Open Since: {{ page.date | date_to_string }}</span>
+  {% capture text %}
   {{ content | split:'<!--break-->' | last }}
+  {% endcapture %}
+
+  {% capture must_haves %}
+  {% include must_haves.md %}
+  {% endcapture %}
+
+  {% if text contains '<!--musthaves-->' %}
+    {{ text | split:'<!--musthaves-->' | first }}
+    {{ must_haves | markdownify }}
+    {{ text | split:'<!--musthaves-->' | last }}
+  {% else %}
+    {{ text }}
+  {% endif %}
 </div>

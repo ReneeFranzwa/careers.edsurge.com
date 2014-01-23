@@ -33,13 +33,7 @@ We have significant brand recognition and contacts in the edtech industry, but t
 * Experience in self-generating sales/sponsorship leads as well as the capability to work off of warm leads.
 * Demonstrated prospecting experience through cold calling, networking and meeting functions
 
-## Must Haves for Everyone at EdSurge
-
-* **Skeptical Technologist.** EdSurge is a diverse and extremely talented set of educators, journalists, technologists and business people who fundamentally believe that the smart use of technology can revolutionize education for all types of students.  We are optimistic, but also extremely pragmatic and thoughtful about all of the adaptation (by companies, students, teachers, administrators) that still needs to happen to deliver on this promise.
-* **Clear communicator and writer.** We are a next generation media and data organization trying to make sense of a rapidly evolving industry for others.  If we can’t understand each other, we will not be able to create value for our customers.
-* **Entrepreneurial.** There really isn’t another word for it.  We are a fast growing startup with lots of ambiguity ahead of us. You need to be thinking and acting like a solo operator - if you are not failing, you are not learning. If you aren’t learning, we are not growing fast enough.
-* **A True Team Member.** At the same time, EdSurge is significantly greater than the sum of its individuals.  When we were a team of five, outsiders thought we had a staff of forty.  Imagine our impact when we get to forty...
-  
+<!--musthaves-->
 
 ## Apply
 
