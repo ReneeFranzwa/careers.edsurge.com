@@ -3,11 +3,11 @@ layout: post
 title: EdSurge is Looking for a Part Time Editorial Assistant
 ---
 
-[EdSurge](https://www.edsurge.com/) is looking for a fabulous assistant to help the editorial staff cover all the cool edtech happenings around the world. You should be passionate about edtech and want to know e-v-e-r-y-t-h-i-n-g going on in this space. You should be a master wordsmith and graphics guru with a keen eye for details and pixels. **This will be a part-time position for now**.
+[EdSurge](https://www.edsurge.com/) is looking for a fabulous assistant to help the editorial staff cover all the cool edtech happenings around the world. You should be passionate about edtech and want to know e-v-e-r-y-t-h-i-n-g going on in this space. You should be a master wordsmith and graphics guru with a keen eye for details and pixels. **This will be a part-time position for now. This will be a part-time position for now. Remote work is OK, but we'd like to see you in our Burlingame, CA office a couple days a week.**
 
 <!--break-->
 
-[EdSurge](https://www.edsurge.com/) is looking for a fabulous assistant to help the editorial staff cover all the cool edtech happenings around the world. You should be passionate about edtech and want to know e-v-e-r-y-t-h-i-n-g going on in this space. You should be a master wordsmith and graphics guru with a keen eye for details and pixels. **This will be a part-time position for now**.
+[EdSurge](https://www.edsurge.com/) is looking for a fabulous assistant to help the editorial staff cover all the cool edtech happenings around the world. You should be passionate about edtech and want to know e-v-e-r-y-t-h-i-n-g going on in this space. You should be a master wordsmith and graphics guru with a keen eye for details and pixels. **This will be a part-time position for now. This will be a part-time position for now. Remote work is OK, but we'd like to see you in our Burlingame, CA office a couple days a week.**
 
 Responsibilities for the editorial assistant include:
 
