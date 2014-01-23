@@ -15,7 +15,7 @@ author:
   name:           'EdSurge'
   url:            https://twitter.com/edsurge
 
-paginate:         1
+paginate:         10
 
 # Custom vars
 version:          1.0.0

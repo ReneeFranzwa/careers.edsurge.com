@@ -3,9 +3,9 @@ layout: post
 title: EdSurge is Looking for a Software Engineer
 ---
 
-Hello,
-
 My name is Shu Uesugi, and I'm an engineer/designer at [EdSurge](https://www.edsurge.com/), a SF Bay Area based media startup in education technology (edtech) space. I've been looking for a software engineer to join our team.
+
+<!--break-->
 
 If you...
 
@@ -14,8 +14,6 @@ If you...
 * are interested in working at a *promising* edtech startup,
 
 please read on.
-
-<!--break-->
 
 ## What We Do at EdSurge
 
@@ -100,7 +98,7 @@ We also believe in [hiring by auditions](http://blogs.hbr.org/2014/01/hire-by-au
 
 You can do this "trial" work at night or over a weekend, so you don't have to leave your current job in the meantime. We'll give you a real work, which will likely involve building internal tools for us. The trial period should last for two to four weeks, but we're flexible about the details. FYI: my trial project was building the ["Events" feature](https://www.edsurge.com/e) on EdSurge, from backend to frontend.
 
-Enough talk. My email is shu@edsurge.com. Would love to hear from you.
+Enough talk. My email is **shu@edsurge.com**. Would love to hear from you.
 
 <a href="mailto:shu@edsurge.com" class="button button-rounded button-primary button-large">Email shu@edsurge.com</a>
 
