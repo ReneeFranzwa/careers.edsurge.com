@@ -7,6 +7,8 @@ title: EdSurge is Looking for a Part Time Editorial Assistant
 
 <!--break-->
 
+[EdSurge](https://www.edsurge.com/) is looking for a fabulous assistant to help the editorial staff cover all the cool edtech happenings around the world. You should be passionate about edtech and want to know e-v-e-r-y-t-h-i-n-g going on in this space. You should be a master wordsmith and graphics guru with a keen eye for details and pixels.
+
 Responsibilities for the editorial assistant include:
 
 * Source and summarize news stories;
@@ -17,7 +19,17 @@ Responsibilities for the editorial assistant include:
 
 Experience with Photoshop/Illustrator and basic HTML/CSS is a must. Experience with video production and editing is a plus.
 
-This will be a part-time position for now. If you're interested, please send a resume, cover letter and a link to an online portfolio to: **tony@edsurge.com**.
+This will be a part-time position for now.
+
+## Apply
+
+
+To apply, email **tony@edsurge.com** the following:
+
+* Your resume,
+* A cover letter that explains why you're the best person for the job, and
+* A link to your online portfolio (if available).
+
 
 <a href="mailto:tony@edsurge.com" class="button button-rounded button-primary button-large">Email tony@edsurge.com</a>
 

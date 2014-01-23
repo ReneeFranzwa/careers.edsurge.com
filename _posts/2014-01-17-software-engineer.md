@@ -3,9 +3,13 @@ layout: post
 title: EdSurge is Looking for a Software Engineer
 ---
 
-My name is Shu Uesugi, and I'm an engineer/designer at [EdSurge](https://www.edsurge.com/), a SF Bay Area based media startup in education technology (edtech) space. I've been looking for a software engineer to join our team.
+[EdSurge](http://www.edsurge.com) is looking for the third software engineer to join our team. If you're an engineer looking to get into edtech, please read on.
 
 <!--break-->
+
+Hi,
+
+My name is Shu Uesugi, and I'm an engineer/designer at [EdSurge](https://www.edsurge.com/), a SF Bay Area based media startup in education technology (edtech) space. I've been looking for a software engineer to join our team.
 
 If you...
 
