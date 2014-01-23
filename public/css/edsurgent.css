@@ -4,6 +4,14 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
+a {
+  color: #00997a;
+}
+
+.logo {
+  margin: 0;
+}
+
 .bolt-logo {
   width: 1.2rem;
   height: 1.2rem;
