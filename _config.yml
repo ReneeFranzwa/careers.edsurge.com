@@ -6,9 +6,9 @@ pygments:         true
 permalink:        /:title/
 
 # Setup
-title:            Careers at EdSurge
-tagline:          'Become an EdSurgent'
-description:      'Careers at EdSurge'
+title:            EdSurge Careers
+tagline:          Become an EdSurgent
+description:      Open Positions at EdSurge
 url:              http://careers.edsurge.com
 
 author:
