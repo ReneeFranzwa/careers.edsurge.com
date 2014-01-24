@@ -10,31 +10,22 @@ a {
 
 .logo {
   margin: 0;
-}
-
-.bolt-logo {
-  width: 1.2rem;
-  height: 1.2rem;
-  display: inline;
-  margin: 0;
-  vertical-align: middle;
+  border-radius: 0
 }
 
 .masthead {
   margin-bottom: 0rem;
 }
 
-.bolt-label {
-  display: none;
-}
-
 .masthead-right {
-  float: right;
+  display: block;
+  margin-bottom: 1rem;
 }
 
 @media (min-width: 30rem) {
-  .bolt-label {
-    display: inline;
+  .masthead-right {
+    float: right;
+    margin-bottom: 0;
   }
 }
 
