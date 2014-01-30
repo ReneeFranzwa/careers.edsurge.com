@@ -45,7 +45,7 @@ Our CEO Betsy Corcoran, an ex-Executive Editor at Forbes and award-winning write
 
 We're on track to close Series A financing in  the first quarter of 2014. The funds will provide a firm foundation to scale up our products over the next two years. Stay tuned for a formal announcement!
 
-## Enginering at EdSurge
+## Engineering at EdSurge
 
 In terms of hiring engineers, we have only two requirements: we're looking for an engineer such that, by having him/her in the team,
 
