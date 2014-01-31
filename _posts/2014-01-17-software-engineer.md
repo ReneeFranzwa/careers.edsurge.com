@@ -3,13 +3,13 @@ layout: post
 title: EdSurge is Looking for a Software Engineer
 ---
 
-[EdSurge](http://www.edsurge.com) is looking for the third software engineer to join our team. If you're an engineer looking to get into edtech, please read on.
+[EdSurge](http://www.edsurge.com) is looking for the second software engineer to join our team. If you're an engineer looking to get into edtech, please read on.
 
 <!--break-->
 
 Hi,
 
-My name is Shu Uesugi, and I'm an engineer/designer at [EdSurge](https://www.edsurge.com/), a SF Bay Area based media startup in education technology (edtech) space. I've been looking for a software engineer to join our team.
+My name is Shu Uesugi, and I'm a designer at [EdSurge](https://www.edsurge.com/), a SF Bay Area based media startup in education technology (edtech) space. I'm looking for a software engineer to join our team.
 
 If you...
 
@@ -56,7 +56,7 @@ Below is a quick summary of our engineering culture. See if any of these click w
 
 #### Process
 
-We have a small product team at EdSurge--it's me (engineer/designer), [Agustin Vilaseca](http://www.linkedin.com/in/agustinvilaseca) (backend guy), and [Nick Punt](http://www.linkedin.com/in/nickpunt) (product guy). Each of us works on a few different projects, and for each project, we work with one or two education specialists at EdSurge. We try to follow cross-disciplinary collaboration detailed in the excellent [Lean UX](http://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652) book.
+We have a small product team at EdSurge--it's me (designer), [Agustin Vilaseca](http://www.linkedin.com/in/agustinvilaseca) (backend guy), and [Nick Punt](http://www.linkedin.com/in/nickpunt) (product guy). Each of us works on a few different projects, and for each project, we work with one or two education specialists at EdSurge. We try to follow cross-disciplinary collaboration detailed in the excellent [Lean UX](http://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652) book.
 
 We use Scrum for project management (with [Trello](https://trello.com/)). We try to work [asynchronously](http://zachholman.com/posts/how-github-works-asynchronous/) by utilizing Google Docs, Hipchat, and [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html). I'm a huge fan of the 37signals' new book [Remote](http://37signals.com/remote/), and we're open to discussion for potentially working from home part time/full time. We also peer-review every pull request.
 
@@ -114,7 +114,7 @@ Just a little bit about my background: I graduated from Carnegie Mellon with a B
 
 If you want to learn more about me, read my [blog post](https://medium.com/what-i-learned-building/fe6a2067d770), which somehow became the top 50 most read post on Medium in August 2013.
 
-Shu Uesugi, Engineer & Designer
+Shu Uesugi, Designer
 
 <img src="/public/images/shu.jpg" class="author" alt="Shu Uesugi">
 
