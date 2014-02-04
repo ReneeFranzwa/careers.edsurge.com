@@ -68,6 +68,12 @@ Heroku + Rails 3.2.x (currently upgrading to > 4.0) + PostgreSQL + MemCache. [So
 
 We wouldn't be at where we are now without the power of open source, and our goal in 2014 is to give back to the open source community. For starters, this page you're looking at is [open sourced on GitHub](https://github.com/edsurge/careers.edsurge.com), and built with [Jekyll](http://jekyllrb.com/), [Poole](http://getpoole.com/), [Buttons](http://alexwolfe.github.io/Buttons/), and [Fitvids.js](http://fitvidsjs.com/).
 
+#### Short Methods
+
+I love writing short methods. Join me if you do, too! FYI: James Edward Gray II suggests that we should teach coding beginners to write small methods from day 1, on [Ruby Rogues Podcast Episode 131](http://rubyrogues.com/131-rr-how-to-learn/):
+
+> When you’re learning to program, if one of the first things you learn is write small methods, how far will that get you? Pretty far, right? ... You don’t need to know why short methods are better to greatly benefit from writing short methods. If you do that, you will be better.
+
 #### Learn about Edtech
 
 We're probably the best company to join for engineers who want to learn about edtech. That's why I joined too. You'll get to learn from edtech experts in our team and attend edtech conferences (and get a lot of attention from educators; they'd be like, "omg you work at EdSurge!").
