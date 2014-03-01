@@ -41,9 +41,7 @@ Our CEO Betsy Corcoran, an ex-Executive Editor at Forbes and award-winning write
 
 #### Who's Funding EdSurge?
 
-[We raised $400K during the summer of 2012](http://techcrunch.com/2012/08/29/edsurge-funding/) from "friends," including NewSchools Venture Fund, the Washington Post and a collection of angels.
-
-We're on track to close Series A financing in  the first quarter of 2014. The funds will provide a firm foundation to scale up our products over the next two years. Stay tuned for a formal announcement!
+We closed a $1.5M funding round in Feb 2014. [Read about it here](https://www.edsurge.com/n/2014-02-26-edsurge-wraps-up-funding-launching-new-initiatives).
 
 ## Engineering at EdSurge
 
