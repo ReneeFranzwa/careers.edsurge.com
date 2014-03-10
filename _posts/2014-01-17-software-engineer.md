@@ -76,6 +76,10 @@ I love writing short methods. Join me if you do, too! FYI: James Edward Gray II 
 
 We're probably the best company to join for engineers who want to learn about edtech. That's why I joined too. You'll get to learn from edtech experts in our team and attend edtech conferences (and get a lot of attention from educators; they'd be like, "omg you work at EdSurge!").
 
+#### My Work Environment
+
+![](/public/images/shu-working.jpg)
+
 ## Working at EdSurge
 
 Our office is at 1801 Murchison Drive, Burlingame, CA ([Google Maps](https://maps.google.com/maps?t=m&q=1801+Murchison+Drive%2C+Burlingame%2C+CA)). It's ~12 min walk from Millbrae Caltrain/BART station and equidistant from highway 101 and 280. Some commute from Berkeley/Oakland, some commute from Mission/Castro, and some commute from Redwood City/Menlo Park.
@@ -91,6 +95,8 @@ Salary/equity is negotiable. We provide health, dental, and vision insurance pla
 #### (UPDATE: 2/18/14)
 
 We're currently only talking to engineers who've had some full-time industry experience in software engineering, preferably in a software startup.
+
+Also, we're not looking to hire interns.
 
 #### Cover Letter
 
