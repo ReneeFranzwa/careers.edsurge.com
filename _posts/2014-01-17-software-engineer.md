@@ -1,6 +1,7 @@
 ---
 layout: post
 title: EdSurge is Looking for a Software Engineer
+date_open_since: 2014-01-17 00:00:00
 ---
 
 [EdSurge](http://www.edsurge.com) is looking for the second software engineer to join our team. If you're an engineer looking to get into edtech, please read on.

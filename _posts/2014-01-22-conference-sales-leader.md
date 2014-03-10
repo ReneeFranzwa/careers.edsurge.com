@@ -1,6 +1,7 @@
 ---
 layout: post
 title: EdSurge is Looking for a Conference Sales Leader
+date_open_since: 2014-01-22 00:00:00
 ---
 
 [EdSurge](http://www.edsurge.com) (yup, THIS EdSurge) is growing! We are on the hunt for a conference sales person with experience selling sponsorships. Our EdSurge Tech Summits are expanding nationwide and we are looking for someone to work with our team to increase the impact of our Summit and work with large education and technology companies interested in supporting and participating in these events. Have you sold event sponsorships before? Drop a note to tyler@edsurge.com. Continue reading for a more detailed description.

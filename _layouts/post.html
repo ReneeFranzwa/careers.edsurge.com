@@ -4,7 +4,7 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">Position Open Since: {{ page.date | date_to_string }}</span>
+  <span class="post-date">Position Open Since: {{ page.date_open_since | date_to_string }}</span>
   {% capture text %}
   {{ content | split:'<!--break-->' | last }}
   {% endcapture %}
