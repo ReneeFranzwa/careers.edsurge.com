@@ -5,19 +5,21 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+    {% unless post.not_available %}
+    <div class="post">
+      <h1 class="post-title">
+        <a href="{{ post.url }}">
+          {{ post.title }}
+        </a>
+      </h1>
 
-    <span class="post-date">Position Open Since: {{ post.date_open_since | date_to_string }}</span>
+      <span class="post-date">Position Open Since: {{ post.date_open_since | date_to_string }}</span>
 
-    {{ post.content | split:'<!--break-->' | first }}
-    {% if post.content contains '<!--break-->' %}
-      <strong><a href="{{ post.url }}">Continue Reading &raquo;</a></strong>
-    {% endif %}
-  </div>
+      {{ post.content | split:'<!--break-->' | first }}
+      {% if post.content contains '<!--break-->' %}
+        <strong><a href="{{ post.url }}">Continue Reading &raquo;</a></strong>
+      {% endif %}
+    </div>
+    {% endunless %}
   {% endfor %}
 </div>

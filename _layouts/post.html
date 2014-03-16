@@ -4,24 +4,28 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">Position Open Since: {{ page.date_open_since | date_to_string }}</span>
-  {% capture text %}
-  {{ content | split:'<!--break-->' | last }}
-  {% endcapture %}
-
-  {% capture must_haves %}
-  {% include must_haves.md %}
-  {% endcapture %}
-
-  {% if text contains '<!--musthaves-->' %}
-    {{ text | split:'<!--musthaves-->' | first }}
-    {{ must_haves | markdownify }}
-    {{ text | split:'<!--musthaves-->' | last }}
+  {% if page.not_available %}
+    <p>This position is no longer available.</p>
   {% else %}
-    {{ text }}
+    <span class="post-date">Position Open Since: {{ page.date_open_since | date_to_string }}</span>
+    {% capture text %}
+    {{ content | split:'<!--break-->' | last }}
+    {% endcapture %}
+
+    {% capture must_haves %}
+    {% include must_haves.md %}
+    {% endcapture %}
+
+    {% if text contains '<!--musthaves-->' %}
+      {{ text | split:'<!--musthaves-->' | first }}
+      {{ must_haves | markdownify }}
+      {{ text | split:'<!--musthaves-->' | last }}
+    {% else %}
+      {{ text }}
+    {% endif %}
+    <p>
+      <div class="fb-like" data-href="{{ site.url }}{{ page.url }}" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+      <a href="https://twitter.com/share" class="twitter-share-button" data-via="edsurge" data-hashtags="edtech" data-dnt="true">Tweet</a>
+    </p>
   {% endif %}
-  <p>
-    <div class="fb-like" data-href="{{ site.url }}{{ page.url }}" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
-    <a href="https://twitter.com/share" class="twitter-share-button" data-via="edsurge" data-hashtags="edtech" data-dnt="true">Tweet</a>
-  </p>
 </div>
