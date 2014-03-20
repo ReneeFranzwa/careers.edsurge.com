@@ -139,4 +139,6 @@ Shu Uesugi, Designer
 
 ## PS: Welcome Ruby Weekly Readers!
 
+[Ruby Weekly](http://rubyweekly.com/) by [Peter Cooper](https://twitter.com/peterc) is a fantastic newsletter. 
+
 <blockquote class="twitter-tweet" lang="en"><p>We are on Ruby Weekly. <a href="https://twitter.com/EdSurge">@EdSurge</a> is hiring engineers! <a href="http://t.co/s3KP9kYXrS">http://t.co/s3KP9kYXrS</a> <a href="http://t.co/GoTk8YzvEd">pic.twitter.com/GoTk8YzvEd</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/statuses/446673014826881024">March 20, 2014</a></blockquote>
