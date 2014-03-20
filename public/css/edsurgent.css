@@ -8,6 +8,15 @@ a, a:hover {
   color: #00997a;
 }
 
+.button, .button:hover {
+  color: #515151;
+}
+
+.button-primary, .button-primary:hover {
+  color: #fff;
+}
+
+
 .logo {
   margin: 0;
   border-radius: 0

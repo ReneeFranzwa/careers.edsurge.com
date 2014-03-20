@@ -22,7 +22,7 @@ please read on.
 
 ## What We Do at EdSurge
 
-[EdSurge](https://www.edsurge.com/) is on its way to becoming the best source of information in edtech. We have [a team of 14 people](https://www.edsurge.com/about), and more than half of us are journalists and education specialists. Every day we report, curate and analyze the products, companies and organizations building edtech.
+[EdSurge](https://www.edsurge.com/) is on its way to becoming the best source of information in edtech. We have [a team of 14 people](http://about.edsurge.com/team), and more than half of us are journalists and education specialists. Every day we report, curate and analyze the products, companies and organizations building edtech.
 
 Particularly in edtech, a great source of information turns out to be quite valuable (and therefore, monetizable). Why so? Well, Paul Graham [said](http://paulgraham.com/startupideas.html): "[best startup ideas] are something the founders themselves want." And from 37signals' book [Rework](http://www.amazon.com/ReWork-Change-Way-Work-Forever-ebook/dp/B002MUAJ2A): "The easiest, most straightforward way to create a great product or service is to make something *you* want to use."
 
@@ -106,12 +106,13 @@ Email me a cover letter and relevant links (GitHub profile/projects). If you're 
 The cover letter *does not* need to be long. Be concise.
 
 <a href="mailto:shu@edsurge.com" class="button button-rounded button-primary button-large">Email shu@edsurge.com</a>
+<a href="http://about.edsurge.com/team" target="_blank" class="button button-rounded button-large">View EdSurge Team</a>
 
 #### Interview Process
 
 After reviewing your cover letter, I'll be your first (phone) interviewer. I won't give you any live-coding interviews because they don't work. [As to why, please read this article](http://css-tricks.com/interviewing-front-end-engineer-san-francisco/). On my interview, I like to ask what you're *geniunely* passionate about in your professional life, so I can determine if EdSurge can help you get to where you want to be. I also like to ask how you stay current.
 
-If things go well, I'd like you to interview with our management team ([Betsy Corcoran, Nick Punt, Agustin Vilaseca, and Tyler McNally](https://www.edsurge.com/about)). If this goes well, then you'll be enrolled in our "trial period."
+If things go well, I'd like you to interview with our management team ([Betsy Corcoran, Nick Punt, Agustin Vilaseca, and Tyler McNally](http://about.edsurge.com/team)). If this goes well, then you'll be enrolled in our "trial period."
 
 #### Trial Period: We Will Give You Paid Contract Work
 
@@ -122,6 +123,7 @@ You can do this "trial" work at night or over a weekend, so you don't have to le
 Enough talk. My email is **shu@edsurge.com**. Would love to hear from you.
 
 <a href="mailto:shu@edsurge.com" class="button button-rounded button-primary button-large">Email shu@edsurge.com</a>
+<a href="http://about.edsurge.com/team" target="_blank" class="button button-rounded button-large">View EdSurge Team</a>
 
 ## PS: About Me
 
