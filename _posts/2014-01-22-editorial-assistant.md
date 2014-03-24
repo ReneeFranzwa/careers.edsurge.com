@@ -36,4 +36,4 @@ To apply, email **betsy@edsurge.com** the following:
 
 Betsy Corcoran, CEO
 
-<img src="/public/images/betsy.jpg" class="author" alt="Betsy Corcoran">
+<img src="/public/images/BetsyCorcoran.jpg" class="author" alt="Betsy Corcoran">

@@ -135,7 +135,7 @@ If you want to learn more about me, read my [blog post](https://medium.com/what-
 
 Shu Uesugi, Designer
 
-<img src="/public/images/shu.jpg" class="author" alt="Shu Uesugi">
+<img src="/public/images/ShuUesugi.jpg" class="author" alt="Shu Uesugi">
 
 ## PS: Welcome Ruby Weekly Readers!
 

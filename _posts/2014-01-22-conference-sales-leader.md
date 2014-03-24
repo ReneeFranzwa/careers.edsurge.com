@@ -48,4 +48,4 @@ To apply, email **tyler@edsurge.com** the following:
 
 Tyler McNally, Director of Business Development and Operations
 
-<img src="/public/images/tyler.jpg" class="author" alt="TylerMcNally">
+<img src="/public/images/TylerMcNally.jpg" class="author" alt="Tyler McNally">
