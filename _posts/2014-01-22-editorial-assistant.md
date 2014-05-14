@@ -2,6 +2,7 @@
 layout: post
 title: EdSurge is Looking for a Part Time Editorial Assistant
 date_open_since: 2014-01-22 00:00:00
+not_available: true
 ---
 
 [EdSurge](https://www.edsurge.com/) is looking for a fabulous assistant to help the editorial staff cover all the cool edtech happenings around the world. You should be a master wordsmith and graphics guru with a keen eye for details and pixels. **This will be a part-time position for now. Remote work is OK, but we'd like to see you in our Burlingame, CA office a couple days a week.**
