@@ -5,7 +5,7 @@ date_open_since: 2015-03-17 00:00:00
 not_available: false
 ---
 
-[EdSurge](http://www.edsurge.com) is dedicated to helping people understand how educational technology can be used to help improve the global educational ecosystem.
+[EdSurge](http://www.edsurge.com) is a startup dedicated to helping people understand how educational technology can be used to help improve the global educational ecosystem.
 
 We are looking to build an internal database of publicly available information regarding different schools and learning institutions.
 
@@ -13,11 +13,11 @@ We are looking to build an internal database of publicly available information r
 
 ##ABOUT THE ROLE
 
-Under the guidance of senior software engineers, you would work to help identify, develop, and implement tools to extract information from public resources (mainly websites), store and organize the information in an internal repository, and make the information available to internal users in easy to use and meaningful ways.
+Under the guidance of senior software engineers, you would work to help identify, develop, and implement tools to extract information from public resources and organize the information in an internal repository, and make the information available to internal users in easy to use and meaningful ways.
 
 You will also have a hand helping us develop our data gathering and data reporting polices.
 
-Besides working on this project, you will have opportunities to gain experience with the day-to-day operations of a mature startup.
+Besides working on this project, you will have opportunities to gain additional experience in web development and to participate in additional engineering projects.
 
 ##QUALIFICATIONS
 
