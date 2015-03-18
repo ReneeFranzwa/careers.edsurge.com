@@ -5,13 +5,14 @@ date_open_since: 2015-03-13 00:00:00
 not_available: false
 ---
 
-[EdSurge](https://www.edsurge.com/jobs/growth-marketing-job-at-edsurgem) 
+[EdSurge](https://www.edsurge.com/jobs/growth-marketing-job-at-edsurg) 
 PLEASE: Read through the full job description and required qualifications and if interested, send a brief cover letter and resume by clicking apply now below.
 
-<!--break-->
 ##ABOUT THE ROLE
 
 EdSurge is looking for a growth marketing ninja who is equal parts product manager, digital marketer and business development ace. Your ability to think up creative campaigns to increase awareness and use of websites is rivaled only by your focus on measuring and reporting on results. You have experience with the full suite of user growth tools including a solid understanding of the strengths and weaknesses of each. These include email marketing, webinars, partnerships, community building, social media, word of mouth campaigns and more.
+
+<!--break-->
 
 You will lead the growth charge with quick iteration and prioritization of initiatives to take EdSurge’s growth to the next level - working cross functionally across the org with our editorial team, engineers, designers and biz dev people. Requirements will vary from project to project, so the ideal candidate will be able to work within a wide variety of contexts. Interested? Become part of a team that is changing the way teachers, administrators and entrepreneurs use, buy and build technologies for learning.  
 
