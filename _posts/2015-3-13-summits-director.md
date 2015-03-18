@@ -5,7 +5,7 @@ date_open_since: 2015-03-13 00:00:00
 not_available: false
 ---
 
-[EdSurge](http://www.edsurge.com) PLEASE: Read through the full job description and required qualifications and if interested, send a brief cover letter and resume by clicking apply now below.
+[EdSurge](https://www.edsurge.com/jobs/summits-director-job-at-edsurge) EdSurge is looking for a Summits Director to join our team and lead the execution and evolution of Summits and the fostering of edtech communities around the US. The Summits Director leads a core team that works with districts, school leaders, and edtech companies to design, plan and execute Summits. This is a key strategic position at EdSurge with collaboration and input from the EdSurge management team and product teams across EdSurge
 
 <!--break-->
 
@@ -14,10 +14,6 @@ not_available: false
 EdSurge Summits are unique events that enable districts to support the smarter use of edtech and help entrepreneurs develop better products for educators. These two-day events bring together hundreds of senior district leaders, teachers and tech coordinators to work with leading edtech companies with a focus on exploration, feedback and professional development. EdSurge runs 8-10 Summits around the country each year. 
 
 Summits are a core part of fulfilling EdSurge’s mission to bridge the gap between the users, buyers and builders of education technology. During 2014, they proved to be catalytic events for local communities, often sparking new projects around using technology in schools. In 2015, we aim to further support these kinds of activities with new types of products / services.  
-
-##ABOUT THE ROLE
-
-EdSurge is looking for a Summits Director to join our team and lead the execution and evolution of Summits and the fostering of edtech communities around the US. The Summits Director leads a core team that works with districts, school leaders, and edtech companies to design, plan and execute Summits. This is a key strategic position at EdSurge with collaboration and input from the EdSurge management team and product teams across EdSurge
 
 ##RESPONSIBILITIES
 ###District-Level Relationship Management
