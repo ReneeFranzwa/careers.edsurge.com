@@ -25,8 +25,6 @@ Besides working on this project, you will have opportunities to gain additional 
 
 * Basic experience with extraction, transformation, and storage of different types of data.
 
-<!--musthaves-->
-
 ## Apply
 
 To apply, email **agustin@edsurge.com** the following:
