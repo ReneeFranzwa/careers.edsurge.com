@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EdSurge is Looking for a Conference Sales Leader
+title: EdSurge is Looking for a Summits Director
 date_open_since: 2015-03-13 00:00:00
 not_available: false
 ---
