@@ -34,4 +34,6 @@ To apply, email **agustin@edsurge.com** the following:
 
 <a href="mailto:agustin@edsurge.com" class="button button-rounded button-primary button-large">Email agustin@edsurge.com</a>
 
-Agustin Vilaseca, Engineering
+Agustin Vilaseca, CTO & Co-founder
+
+<img src="/public/images/AgustinVilaseca.jpg" class="author" alt="AgustinVilaseca">
