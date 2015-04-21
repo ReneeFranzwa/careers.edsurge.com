@@ -2,7 +2,7 @@
 layout: post
 title: EdSurge is Looking for a Summits Director
 date_open_since: 2015-03-13 00:00:00
-not_available: false
+not_available: true
 ---
 
 [EdSurge](https://www.edsurge.com/jobs/summits-director-job-at-edsurge) EdSurge is looking for a Summits Director to join our team and lead the execution and evolution of Summits and the fostering of edtech communities around the US. The Summits Director leads a core team that works with districts, school leaders, and edtech companies to design, plan and execute Summits. This is a key strategic position at EdSurge with collaboration and input from the EdSurge management team and product teams across EdSurge
