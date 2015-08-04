@@ -1,11 +1,11 @@
 ---
 layout: post
-title: EdSurge is Looking for Two Reporting Fellows
+title: EdSurge is Looking for a Reporter
 date_open_since: 2015-07-01 00:00:00
 not_available: false
 ---
 
-[EdSurge](https://www.edsurge.com) is looking for two Reporting Fellows who are passionate about sharing the conversations and ideas that will influence how learners learn—and how teachers teach. As an EdSurge Fellow, you will cover the growing community of education entrepreneurs along with the students, educators and learners they’re supposed to serve.
+[EdSurge](https://www.edsurge.com) is looking for a reporter who is passionate about sharing the conversations and ideas that will influence how learners learn—and how teachers teach. You will cover the growing community of education entrepreneurs along with the students, educators and learners they’re supposed to serve.
 
 <!--break-->
 
@@ -13,9 +13,9 @@ How has technology shaped how you learn? How might it change how you teach?
 
 These are the questions that drive us—and if they stoke your curiosity, we invite you to apply for a Reporting Fellowship at [EdSurge](https://www.edsurge.com/), the leading source for news about education technology.
 
-We are looking for two savvy reporters and storytellers who are passionate about sharing the conversations and ideas that will influence how learners learn—and how teachers teach. As an EdSurge Fellow, you will cover the growing community of education entrepreneurs along with the students, educators and learners they’re supposed to serve.
+We are looking for a reporters who is passionate about sharing the conversations and ideas that will influence how learners learn—and how teachers teach. You will cover the growing community of education entrepreneurs along with the students, educators and learners they’re supposed to serve.
 
-We want creative, confident and concise writers who can communicate complex ideas to our audience. Reporting to the Managing Editor, the EdSurge Fellow will:
+We want creative, confident and concise writers who can communicate complex ideas to our audience. Reporting to the Managing Editor, the reporter will:
 
 * Curate and summarize announcements, news and reports;
 * Research and produce original stories;
@@ -34,7 +34,7 @@ We want creative, confident and concise writers who can communicate complex idea
 
 ##Fellowship Terms:##
 
-This will be a six-month, 30 hours per week opportunity with competitive pay in our Burlingame, CA office. We will accept and review applications on a rolling basis until the two positions are filled.
+This will be a full-time opportunity with competitive pay in our Burlingame, CA office. We will accept and review applications on a rolling basis until the position is filled.
 
 <!--musthaves-->
 
@@ -44,7 +44,7 @@ We’re a small, humble staff with a big and growing footprint. We read Quartz a
 
 ##To Apply:##
 
-Please send a resume, links to published work, and a short story about your most memorable learning experience to Tony Wan.
+Please send a resume, links to published work, and a short, polished story about your most memorable learning experience to Tony Wan.
 
 <a href="mailto:tony@edsurge.com" class="button button-rounded button-primary button-large">Email tony@edsurge.com</a>
 
