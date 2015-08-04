@@ -11,9 +11,9 @@ not_available: false
 
 How has technology shaped how you learn? How might it change how you teach?
 
-These are the questions that drive us—and if they stoke your curiosity, we invite you to apply for a Reporting Fellowship at [EdSurge](https://www.edsurge.com/), the leading source for news about education technology.
+These are the questions that drive us—and if they stoke your curiosity, we invite you to consider joining us at [EdSurge](https://www.edsurge.com/), the leading source for news about education technology.
 
-We are looking for a reporters who is passionate about sharing the conversations and ideas that will influence how learners learn—and how teachers teach. You will cover the growing community of education entrepreneurs along with the students, educators and learners they’re supposed to serve.
+We are looking for a reporter who is passionate about sharing the conversations and ideas that will influence how learners learn—and how teachers teach. You will cover the growing community of education entrepreneurs along with the students, educators and learners they’re supposed to serve.
 
 We want creative, confident and concise writers who can communicate complex ideas to our audience. Reporting to the Managing Editor, the reporter will:
 
@@ -32,9 +32,9 @@ We want creative, confident and concise writers who can communicate complex idea
 * Familiarity with basic business and finance terms;
 * Experience with graphic editing tools (i.e. Photoshop) and HTML/CSS
 
-##Fellowship Terms:##
+##Terms:##
 
-This will be a full-time opportunity with competitive pay in our Burlingame, CA office. We will accept and review applications on a rolling basis until the position is filled.
+This is a full-time opportunity with competitive pay in our Burlingame, CA office. We will accept and review applications on a rolling basis until the position is filled.
 
 <!--musthaves-->
 
