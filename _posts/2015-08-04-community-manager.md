@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EdSurge is Looking for a Reporter
+title: EdSurge is Looking for a Community Manager
 date_open_since: 2015-07-01 00:00:00
 not_available: false
 ---
