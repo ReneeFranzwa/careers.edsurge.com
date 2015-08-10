@@ -34,7 +34,7 @@ We want creative, confident and concise writers who can communicate complex idea
 
 ##Terms:##
 
-This is a full-time opportunity with competitive pay in our Burlingame, CA office. We will accept and review applications on a rolling basis until the position is filled.
+This is a full-time opportunity with competitive pay in our Burlingame, CA office.
 
 <!--musthaves-->
 
@@ -44,7 +44,7 @@ We’re a small, humble staff with a big and growing footprint. We read Quartz a
 
 ##To Apply:##
 
-Please send a resume, links to published work, and a short, polished story about your most memorable learning experience to Tony Wan.
+Please send a resume, links to published work, and a short, polished (and hopefully fun!) story about your most memorable learning experience to Tony Wan.
 
 <a href="mailto:tony@edsurge.com" class="button button-rounded button-primary button-large">Email tony@edsurge.com</a>
 
