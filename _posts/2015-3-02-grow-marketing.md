@@ -37,15 +37,4 @@ You will lead the growth charge with quick iteration and prioritization of initi
 
 <!--musthaves-->
 
-## Apply
-
-To apply, email **tyler@edsurge.com** the following:
-
-* Your resume, and
-* A short note about why you're the best person for the job.
-
-<a href="mailto:tyler@edsurge.com" class="button button-rounded button-primary button-large">Email tyler@edsurge.com</a>
-
-Tyler McNally, Director of Business Development and Operations
-
-<img src="/public/images/TylerMcNally.jpg" class="author" alt="Tyler McNally">
+<a href="http://edsurge.workable.com/jobs/100287">## APPLY HERE ## </a>
