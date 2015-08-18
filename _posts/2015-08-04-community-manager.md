@@ -44,13 +44,9 @@ This is a full-time opportunity based in our office in Burlingame, CA, which is 
 
 EdSurge is a high growth, venture-backed news and information resource organization that’s at the heart of the rapidly growing education technology ecosystem. We care deeply about our mission to connect the users, buyers and builders of education technology to close the opportunity gap by getting the right tools into classrooms. Our team is high energy, tight-knit and loves great reads, silly puns and giphys. We read Quartz and Wired. We sometimes do [science experiments](https://instagram.com/p/uyYpAJSmDy) in the office because—well, why not? And every day we strike that [fine balance](https://instagram.com/p/3wnDxmymMg/) between being serious and [silly](https://www.youtube.com/watch?v=Ovgx7vtq04k).
 
-##To Apply:##
+<a href="http://edsurge.workable.com/jobs/100731">APPLY HERE</a>
 
-Please send a resume and cover letter to Mary Jo Madda.
 
-<a href="mailto:maryjo@edsurge.com" class="button button-rounded button-primary button-large">Email maryjo@edsurge.com</a>
 
-Mary Jo Madda, Senior Editor
 
-<img src="http://about.edsurge.com/assets/images/team/MaryJoMadda.jpg" class="author" alt="Tony Wan">
 
