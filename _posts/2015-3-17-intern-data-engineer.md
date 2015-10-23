@@ -2,7 +2,7 @@
 layout: post
 title: EdSurge is Looking for Data Engineer Intern
 date_open_since: 2015-03-17 00:00:00
-not_available: false
+not_available: true
 ---
 
 [EdSurge](http://www.edsurge.com) is a startup dedicated to helping people understand how educational technology can be used to help improve the global educational ecosystem.
