@@ -2,7 +2,7 @@
 layout: post
 title: EdSurge is Looking for a Community Manager
 date_open_since: 2015-07-01 00:00:00
-not_available: false
+not_available: true
 ---
 
 [EdSurge](https://www.edsurge.com) is looking for a talented and passionate individual to manage our growing community of innovative educators and entrepreneurs.
