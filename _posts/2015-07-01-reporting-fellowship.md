@@ -2,7 +2,7 @@
 layout: post
 title: EdSurge is Looking for a Reporter
 date_open_since: 2015-07-01 00:00:00
-not_available: false
+not_available: true
 ---
 
 [EdSurge](https://www.edsurge.com) is looking for a reporter who is passionate about sharing the conversations and ideas that will influence how learners learn—and how teachers teach. You will cover the growing community of education entrepreneurs along with the students, educators and learners they’re supposed to serve.
