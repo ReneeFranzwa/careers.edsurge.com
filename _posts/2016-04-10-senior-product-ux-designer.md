@@ -6,6 +6,8 @@ date_open_since: 2016-04-10 00:00:00
 
 [EdSurge](http://www.edsurge.com) is looking for a Senior Product/UX Designer to join our cross-functional team. 
 
+<!--break-->
+
 ## What will you do once you're here?
 
 A typical day might begin in a collaborative design session with a product manager. You’ll tackle a tough problem together by clarifying what the goals are, challenging assumptions, generating design concepts, and producing basic storyboards or user flows. Afterward, you'll take the lead on transforming those high-level ideas into wireframes, mockups, and visual designs.
