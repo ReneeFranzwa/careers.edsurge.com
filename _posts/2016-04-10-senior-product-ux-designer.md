@@ -8,6 +8,10 @@ date_open_since: 2016-04-10 00:00:00
 
 <!--break-->
 
+## The Position
+
+[EdSurge](http://www.edsurge.com) is looking for a Senior Product/UX Designer to join our cross-functional team. 
+
 ## What will you do once you're here?
 
 A typical day might begin in a collaborative design session with a product manager. You’ll tackle a tough problem together by clarifying what the goals are, challenging assumptions, generating design concepts, and producing basic storyboards or user flows. Afterward, you'll take the lead on transforming those high-level ideas into wireframes, mockups, and visual designs.
@@ -33,3 +37,14 @@ Finally, you'll help establish a culture and discipline of thoughtful, consisten
 **You do your best work on collaborative, cross-functional teams** building applications for the web and mobile web. However, you’re also highly comfortable being self-directed and navigating ambiguity. You understand the capabilities and limitations of technologies such as HTML, JavaScript, and CSS.
 
 Minimum three years of experience designing and shipping web and mobile apps. An academic degree in Human-Computer Interaction, Interaction Design, or a related design or behavioral science discipline is preferred, but exceptions may be made.
+
+## Apply
+
+To apply, email **howard@edsurge.com** the following:
+
+* Your resume/design portfolio, and
+* A short note about why you're the best person for the job.
+
+<a href="mailto:howard@edsurge.com" class="button button-rounded button-primary button-large">Email howard@edsurge.com</a>
+
+Howard Kao, Director of Product
