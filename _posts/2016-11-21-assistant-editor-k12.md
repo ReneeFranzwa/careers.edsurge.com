@@ -9,6 +9,9 @@ date_open_since: 2016-11-21 00:00:00
 This editor will possess an obsessive interest in the news and conversations happening in the K-12 community, planning, assigning and reporting stories as needed. You will also serve as the voice of our weekly newsletter geared for K-12 educators.
 
 <!--break-->
+[EdSurge](http://www.edsurge.com) is looking for a K-12 editor who is passionate about the people and ideas that shape how learners learn and teachers teach. This editor plays a key role in defining our coverage of the K-12 community of entrepreneurs, tech-smart educators and students they aim to serve. The ideal candidate will possess a knack for reporting and a keen eye for finding storytellers.
+
+This editor will possess an obsessive interest in the news and conversations happening in the K-12 community, planning, assigning and reporting stories as needed. You will also serve as the voice of our weekly newsletter geared for K-12 educators.
 
 ### You’re the kind of person who wonders:
 
