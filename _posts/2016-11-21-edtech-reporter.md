@@ -9,7 +9,9 @@ date_open_since: 2016-11-21 00:00:00
 We welcome creative, confident and concise writers who can communicate complex ideas to our audience. Not every article will be 700 words long; sometimes charts and graphs do a better job at telling the story. (And yes, a touch of humor helps, too!)
 
 <!--break-->
+[EdSurge](http://www.edsurge.com) is looking for a savvy reporter who is passionate about the people and ideas that shape how learners learn and teachers teach. The reporter will cover the growing community of education entrepreneurs, tech-smart educators and the students they serve. The ideal candidate will feel equally energized reporting on big technology companies (think Google, Amazon, etc) and schools and classrooms.
 
+We welcome creative, confident and concise writers who can communicate complex ideas to our audience. Not every article will be 700 words long; sometimes charts and graphs do a better job at telling the story. (And yes, a touch of humor helps, too!)
 ### You’re the kind of person who wonders:
 
 * How can technology dramatically improve teaching and learning for all teachers and students?
