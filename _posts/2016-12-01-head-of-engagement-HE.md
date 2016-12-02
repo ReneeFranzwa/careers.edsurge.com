@@ -45,10 +45,10 @@ We’ve outlined the “why” and “what” of Higher Ed at EdSurge in a recen
 - Three weeks mandatory vacation (not the "unlimited" that never seems to happen....)
 - Flexible work - work from home one day a week
 
-### Location
+#### LOCATION
 EdSurge has offices in Burlingame, CA and Oakland, CA. Both locations are public transit-friendly.
 
-### ABOUT EDSURGE
+#### ABOUT EDSURGE
 EdSurge is a high growth, venture-backed news and information resource organization that’s at the heart of the rapidly growing education technology ecosystem. We care deeply about our mission to connect the users, buyers and builders of education technology to close the opportunity gap by getting the right tools into classrooms. Our team is high energy, tight-knit and loves great reads, silly puns and giphys. We sometimes do science experiments in the office because—well, why not?
 
 <a href="https://edsurge.workable.com/jobs/385491" class="button button-rounded button-primary button-large">Apply Now</a>
