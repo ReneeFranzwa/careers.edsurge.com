@@ -7,6 +7,7 @@ date_open_since: 2016-12-01 00:00:00
 [EdSurge](http://www.edsurge.com), the leading source for edtech news, research and tools for selecting edtech products, is looking for a BizOps Analyst to lead a diverse portfolio of one-time and recurring projects across the HigherEd team. We’re looking for someone with business or consulting experience to own projects from start to finish. You will work closely with leaders of the HigherEd team to develop and implement projects to increase users and usage of higher-ed products, improve processes and support the growth of the HigherEd team. This is an opportunity to work at the forefront of a dynamic, entrepreneurial team within a mission-driven, ambitious start-up.
 
 <!--break-->
+[EdSurge](http://www.edsurge.com), the leading source for edtech news, research and tools for selecting edtech products, is looking for a BizOps Analyst to lead a diverse portfolio of one-time and recurring projects across the HigherEd team. We’re looking for someone with business or consulting experience to own projects from start to finish. You will work closely with leaders of the HigherEd team to develop and implement projects to increase users and usage of higher-ed products, improve processes and support the growth of the HigherEd team. This is an opportunity to work at the forefront of a dynamic, entrepreneurial team within a mission-driven, ambitious start-up.
 
 ## You’re the kind of person who:
 
