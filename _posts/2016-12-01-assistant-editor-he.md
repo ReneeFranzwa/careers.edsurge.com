@@ -9,6 +9,9 @@ date_open_since: 2016-12-01 00:00:00
 This assistant editor will possess an obsessive interest in the news and conversations happening in the higher education innovation community, planning, assigning and reporting stories as needed. You will also serve as the voice of our weekly newsletter geared for college leaders and professors involved in innovation efforts.
 
 <!--break-->
+[EdSurge](http://www.edsurge.com) is looking for a versatile journalist who is passionate about the people and ideas shaping how learners learn and teachers teach, and is curious about what college will look like in the future. This assistant editor plays a key role in defining our coverage of the higher education community of entrepreneurs, tech-smart professors and the students they aim to serve. The ideal candidate will possess a knack for reporting and a keen eye for storytelling.
+
+This assistant editor will possess an obsessive interest in the news and conversations happening in the higher education innovation community, planning, assigning and reporting stories as needed. You will also serve as the voice of our weekly newsletter geared for college leaders and professors involved in innovation efforts.
 
 ## You’re the kind of person who wonders:
 
