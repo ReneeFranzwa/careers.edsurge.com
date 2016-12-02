@@ -7,6 +7,7 @@ date_open_since: 2016-12-01 00:00:00
 [EdSurge](http://www.edsurge.com) is looking for a versatile community builder who is passionate about the people and ideas shaping how learners learn and teachers teach, and is curious about what college will look like in the future.
 
 <!--break-->
+[EdSurge](http://www.edsurge.com) is looking for a versatile community builder who is passionate about the people and ideas shaping how learners learn and teachers teach, and is curious about what college will look like in the future.
 
 As the head of engagement, you will work closely with EdSurge leaders to set and oversee engagement strategy for EdSurge in HigherEd, cultivate the trust and connectivity with the community that distinguishes our work, and be the go-to resource on network building strategy and tactics. You will also act as an ambassador for EdSurge HigherEd in the community.
 
