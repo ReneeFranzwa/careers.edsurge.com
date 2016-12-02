@@ -1,7 +1,7 @@
 ---
 layout: post
-title: EdSurge is Looking for an Assistant Editor, K-12
-date_open_since: 2016-11-21 00:00:00
+title: EdSurge is Looking for an Assistant Editor, Higher Ed
+date_open_since: 2016-12-01 00:00:00
 ---
 
 [EdSurge](http://www.edsurge.com) is looking for a versatile journalist who is passionate about the people and ideas shaping how learners learn and teachers teach, and is curious about what college will look like in the future. This assistant editor plays a key role in defining our coverage of the higher education community of entrepreneurs, tech-smart professors and the students they aim to serve. The ideal candidate will possess a knack for reporting and a keen eye for storytelling.
