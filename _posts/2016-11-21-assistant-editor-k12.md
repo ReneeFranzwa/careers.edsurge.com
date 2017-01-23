@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EdSurge is Looking for an Assistant Editor, K-12
+title: Assistant Editor, K-12
 date_open_since: 2016-11-21 00:00:00
 ---
 
