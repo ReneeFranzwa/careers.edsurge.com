@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EdSurge is Looking for a BizOps Analyst (Higher Ed)
+title: BizOps Analyst (Higher Ed)
 date_open_since: 2016-12-01 00:00:00
 ---
 
