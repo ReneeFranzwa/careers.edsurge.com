@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EdSurge is Looking for a Head of Engagement (Higher Ed)
+title: Head of Engagement (Higher Ed)
 date_open_since: 2016-12-01 00:00:00
 ---
 
