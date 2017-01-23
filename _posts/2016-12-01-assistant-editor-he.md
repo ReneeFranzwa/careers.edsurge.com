@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EdSurge is Looking for an Assistant Editor, Higher Ed
+title: Assistant Editor, Higher Ed
 date_open_since: 2016-12-01 00:00:00
 ---
 
