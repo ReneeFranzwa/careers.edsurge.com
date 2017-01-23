@@ -2,6 +2,7 @@
 layout: post
 title: EdSurge is Looking for an Education Technology Reporter
 date_open_since: 2016-11-21 00:00:00
+not_available: true
 ---
 
 [EdSurge](http://www.edsurge.com) is looking for a savvy reporter who is passionate about the people and ideas that shape how learners learn and teachers teach. The reporter will cover the growing community of education entrepreneurs, tech-smart educators and the students they serve. The ideal candidate will feel equally energized reporting on big technology companies (think Google, Amazon, etc) and schools and classrooms.
