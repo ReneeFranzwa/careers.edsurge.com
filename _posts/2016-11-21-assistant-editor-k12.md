@@ -2,6 +2,7 @@
 layout: post
 title: Assistant Editor, K-12
 date_open_since: 2016-11-21 00:00:00
+not_available: true
 ---
 
 [EdSurge](http://www.edsurge.com) is looking for a K-12 editor who is passionate about the people and ideas that shape how learners learn and teachers teach. This editor plays a key role in defining our coverage of the K-12 community of entrepreneurs, tech-smart educators and students they aim to serve. The ideal candidate will possess a knack for reporting and a keen eye for finding storytellers.
