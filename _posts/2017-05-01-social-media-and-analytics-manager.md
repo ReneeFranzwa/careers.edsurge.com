@@ -21,18 +21,18 @@ We’re looking for someone who is excited about social media and understands ho
 
 ### In this job you will:
 
-* Develop, post, and manage written content, photos, graphics, videos, and links on all social channels (with a focus on Facebook and Twitter)
-* Craft short and long-term strategy for EdSurge’s social presence; this includes constantly testing new and current strategies, various forms of content, and new campaigns to persistently analyze and improve audience engagement
-* Quickly adjust strategy based on the current needs of Sales and Marketing
-* Run, organize and advertise multiple Twitter Chats each month
-* Run, organize and advertise webinars
-* Compile, analyze, and distribute analytic reports (with data from Buffer, Google Analytics, etc.) and social media data to the internal team, regularly making recommendations, updates, and improvements to the social platforms based on your findings. 
-* Stay up-to-date with all social channels, industry changes, and emerging platforms; make recommendations based on your findings.
-* Manage and develop promotional campaigns across various social media channels (including paid campaigns)
-* Get to really know our target audiences and obsess over them including what questions they ask, what their aspirations are and what pain points they have
-* Engage relevant influencers and brand advocates in an authentic way
-* Respond to the community across various social channels as needed
-* Be an integral part of an ambitious, fun and close-knit team within a start-up
+* **Develop, post, and manage** written content, photos, graphics, videos, and links on all social channels (with a focus on Facebook and Twitter)
+* **Craft short and long-term strategy** for EdSurge’s social presence; this includes constantly testing new and current strategies, various forms of content, and new campaigns to persistently analyze and improve audience engagement
+* **Quickly adjust strategy** based on the current needs of Sales and Marketing
+* **Run, organize and advertise multiple Twitter Chats** each month
+* **Run, organize and advertise webinars**
+* **Compile, analyze, and distribute analytic reports** (with data from Buffer, Google Analytics, etc.) and social media data to the internal team, regularly making recommendations, updates, and improvements to the social platforms based on your findings. 
+* **Stay up-to-date** with all social channels, industry changes, and emerging platforms; make recommendations based on your findings.
+* **Manage and develop promotional campaigns** across various social media channels (including paid campaigns)
+* **Get to really know our target audiences** and obsess over them including what questions they ask, what their aspirations are and what pain points they have
+* **Engage relevant influencers and brand advocates** in an authentic way
+* **Respond to the community** across various social channels as needed
+* Be an integral part of an **ambitious, fun and close-knit** team within a start-up
 
 ### What makes you a great fit for this role:
 
