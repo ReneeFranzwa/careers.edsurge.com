@@ -2,6 +2,7 @@
 layout: post
 title: Assistant Editor (Higher Ed)
 date_open_since: 2016-12-01 00:00:00
+not_available: true
 ---
 
 What will colleges look like in the future? (Will campuses even be around?) How will they evolve to meet the diverse needs of nontraditional, “New Normal” college students who are no longer coming straight from high school? These are just a few of the big questions that drive our coverage of the people, ideas and tools shaping the higher education landscape.
