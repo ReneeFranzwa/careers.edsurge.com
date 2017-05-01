@@ -2,6 +2,7 @@
 layout: post
 title: Head of Engagement (Higher Ed)
 date_open_since: 2016-12-01 00:00:00
+not_available: true
 ---
 
 [EdSurge](http://www.edsurge.com) is looking for a versatile community builder who is passionate about the people and ideas shaping how learners learn and teachers teach, and is curious about what college will look like in the future.
